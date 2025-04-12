@@ -20,5 +20,5 @@ export default defineConfig({
       },
     },
   },
-  base: '/morons-tv/', // Replace with your repository name
+  base: '/morons-tv.github.io/', // Replace with your repository name
 });
